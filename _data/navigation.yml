@@ -4,7 +4,7 @@ main:
     url: /portfolio/
 
   - title: "Flood modelling"
-    url: /floodmodelling/
+    url: /flood/
 
   - title: "Outreach"
     url: /outreach/
