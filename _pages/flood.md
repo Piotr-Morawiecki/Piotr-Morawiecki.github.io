@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Benchmarking of flood estimation methods"
+permalink: /flood/
 author_profile: true
 ---
 
