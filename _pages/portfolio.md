@@ -394,7 +394,7 @@ During the study group project we tried to:
 Crisp alignment and lift-off process modelling
 ---
 
-<img align="right" src="/images/crisps.jpg" alt="" width="255" height="160"/>
+<img align="right" src="/images/crisps.jpg" width="400px"/>
 
  I worked on the optimisation of selected stages of the PepsiCo crisps production line. During 10th ITT in June 2019
 team I worked in was modelling different methods of crisp alignment on two supports to find the method, which is most stable .
