@@ -10,7 +10,7 @@ Here I present research projects that I took part in since September 2019. The p
 Alarm pattern recognition
 ---
 
-<img align="right" src="/images/power_line.png" width="400px"/>
+<img align="right" src="/images/power_line.jpg" width="400px"/>
 
 During the 13th Montreal Industrial Problem Solving Workshop, I worked on a project for the Hitachi on the alarm pattern recognition. Power grid operators regularly have to deal with power disturbances (*e.g.* caused by strong wind or thunderstorm), which often activate multiple alarms at the same time. Our goal was to identify causal/process-based relations 
 between the alarms in the real data, which could help with real-time tool for disturbance problem solving.
