@@ -23,7 +23,7 @@ The model we developed incorporates the accumulation of surface water at the res
 Knots to Watts: generating power from water current
 ---
 
-<img align=“right” src=“/images/WITT.png” width=“400px”/>
+<img align="right" src="/images/WITT.png" width="400px"/>
 
 During European Study Group with Industry organised by University of Kent on 18-22 July 2022 I worked with a team
 on mathematical model of WITT gearbox. It is a device developed by WITT Energy, which generates power from water current
@@ -44,7 +44,7 @@ Image description: WITT gearbox
 Predicting effect of water extraction
 ---
 
-<img align=“right” src=“/images/hot_spring.jpg” width=“400px”/>
+<img align="right" src="/images/hot_spring.jpg" width="400px"/>
 
 During the 16th Integrative Think Tank on 13-17 June 2022 I helped team working in a project for Schlumberger on
 predicting the effects of deep groundwater extraction. A particular case that we focused on during this week was extraction of
@@ -62,6 +62,7 @@ models addressing this problem.
 
 Approximated models of wind turbine dynamics
 ---
+*<img align="right" src="/images/wind_turbines.jpg" width="400px"/>
 
 During the 15th Integrative Think Tank on 31.01-4.02.2022 together with Bath Beacons group we were working on developing
 mathematical models of wind turbine dynamics. Complex models currently used by engineers consist of dozens or hundreds
@@ -75,14 +76,13 @@ attached to the sea floor using mooring lines, and quantify the effect of differ
 
 **Research team:** Christian Jones, Rick Lupton, Piotr Morawiecki, Timothy Peters, Philippe Trinh
 
-*<img align=“right” src=“/images/wind_turbines.jpg” width=“400px”/>
 Image description: Floating wind turbines anchored to
 the sea floor (author: Joshua Bauer/NREL)*
 
 COVID Safety in Large Events
 ---
 
-<img align=“right” src=“/images/rugby.jpg” width=“400px”/>
+<img align="right" src="/images/rugby.jpg" width="400px"/>
 
 During a RAMP Virtual Study Group on 13.07-15.07.2021 I worked on a collaborative project with Bath Rugby on maintaining COVID
 safety during large outdoor events, with the particular focus on reopening the Rugby stadium in Bath. The goal was to model 
@@ -103,7 +103,7 @@ Bath Rugby during the rugby union season
 Modelling gas temperature variation in a heat pump
 ---
 
-<img align=“right” src=“/images/heat_pump.gif” width=“400px”/>
+<img align="right" src="/images/heat_pump.gif" width="400px"/>
 
 During a Virtual Study Group in Edinbourgh on 28.06-1.07.2021 I worked on a project on optimising heat pump performance.
 The main goal was to understand how to estimate the variation of a gas temperature in the Near Isothermal Stirling Heat Pump
@@ -124,7 +124,7 @@ developed by Fluid Dynamics Ltd.
 Estimating conductance using network representation
 ---
 
-<img align=“right” src=“/images/cylinders.png” width=“400px”/>
+<img align="right" src="/images/cylinders.png" width="400px"/>
 
 During the 165th European Study Group in April 2021 we were solving problem for Peratech company related
 to modelling composite structures. We were asked to find efficient way of representing high-conductive
@@ -145,7 +145,7 @@ Lorenzo Quintavalle, Canxin Shi, Eddie Wilson, Yang Zhou, Ellen Powell
 Modelling competition in pharmaceutic research
 ---
 
-<img align=“right” src=“/images/pharmaceutic_research.jpg” width=“400px”/>
+<img align="right" src="/images/pharmaceutic_research.jpg" width="400px"/>
 
 During the 13th Integrative Think Tank in January 2021 I worked on problem from a worldwide pharmaceutic company, Roche.
 The problem concerned developing methods for prioritising drug research portfolio, i.e. deciding which
@@ -162,7 +162,7 @@ to find optimal strategies in more complex scenarios.
 Automatic detection of anomalous crowd behaviour
 ---
 
-<img align=“right” src=“/images/Poland_manifestation.png” width=“400px”/>
+<img align="right" src="/images/Poland_manifestation.png" width="400px"/>
 
 During a Virtual Study Group in December 2020 I worked on developing methods for automatic anomalous crowd
 behaviour for UK's Government Communications Headquarters. Given a video of the crowd (e.g. CCTV footage)
@@ -186,7 +186,7 @@ during Poland Independence Day 2020.
 Mathematical modelling of ice crystals icing in jet engines
 ---
 
-<img align=“right” src=“/images/airplane.jpg” width=“400px”/>
+<img align="right" src="/images/airplane.jpg" width="400px"/>
 
 During 12th SAMBa Integrative Think Tank we were working on research projects for two partners,
 Rolls-Royce and Novartis. The projects for Rolls-Royce involved modelling of deterioration of turbojet engines
@@ -212,7 +212,7 @@ ice crystals, which can cause engine icing.*
 Quantifying risk under deployment uncertainty in radio spectrum management
 ---
 
-<img align=“right” src=“/images/5G.jpg” width=“400px”/>
+<img align="right" src="/images/5G.jpg" width="400px"/>
 
 The project was run in collaboration with Transfinite System during 162. European Study Groups with Industry
 organised by University of Leeds in July 2020. This problem concerns an issue faced by regulators on whether
@@ -232,7 +232,7 @@ an alternative semi-analytic approach, which is much less computationally demand
 RAMP Environmental and aerosol transmission
 ---
 
-<img align=“right” src=“/images/coronavirus.jpg” width=“400px”/>
+<img align="right" src="/images/coronavirus.jpg" width="400px"/>
 
  RAMP (Rapid Assistance in Modelling the Pandemic) is an initiative in UK, which is bringing modelling expertise
 from a diverse range of disciplines to support the pandemic modelling community already working on Coronavirus (COVID-19).
@@ -254,7 +254,7 @@ Sophy Bristow, Josh Shelton, Yyanis Johnson-Llambias, Piotr Morawiecki, Michael 
 Feeding Vulnerable People
 ---
 
-<img align=“right” src=“/images/FareShare.png” width=“400px”/>
+<img align="right" src="/images/FareShare.png" width="400px"/>
 
 During the Virtual Study Group on 29 June - 01 July we conducted a research project for FareShare - the UK's largest charity
 fighting hunger and food waste. Since lockdown they observe an unprecedented demand for their services, in addition the food
@@ -277,7 +277,7 @@ Sovan Mitra, Piotr Morawiecki, Markus Owen, Philip Palmer, Bernard Piette, Colin
 Effect of lockdown on meeting zero-net emission targets
 ---
 
-<img align=“right” src=“/images/smog_cars.jpg” width=“400px”/>
+<img align="right" src="/images/smog_cars.jpg" width="400px"/>
 
 Together with students from Water Informatics: Science &amp; Engineering CDT in University of Exeter we took part in
 the <a href=https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/>2nd NERC Hackathon challange</a>
@@ -293,7 +293,7 @@ coronasaurus_NERCHackathonTwo_LearningFromLockdown</a> GitHub repository. We wer
 Impact of air quality on COVID-19 spread
 ---
 
-<img align=“right” src=“/images/pollution.jpg” width=“400px”/>
+<img align="right" src="/images/pollution.jpg" width="400px"/>
 
 The project was run in 1-5 July 2020 as a part of <a href=https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/>
 NERC Hackathon</a> organised by the Natural Environment Research Council. In a group of four students we built an open-source
@@ -312,7 +312,7 @@ The framework is available at: <a href="https://github.com/Piotr-Morawiecki/Bath
 Beyond traditional modelling in flood estimation
 ---
 
-<img align=“right” src=“/images/flood.jpg” width=“400px”/>
+<img align="right" src="/images/flood.jpg" width="400px"/>
 
 In academic year 2019-2020 I was working on the SAMBa Interdisciplinary Research Project focused on development
 of better methodologies for studying flood estimation. It is a continuation of a project for Environmental Agency from
@@ -332,7 +332,7 @@ and propose modifications of existing flood estimation methods to increase the r
 Modelling the stability of multiphase resins
 ---
 
-<img align=“right” src=“/images/Steric_stabilization.jpg” width=“400px”/>
+<img align="right" src="/images/Steric_stabilization.jpg" width="400px"/>
 
 There is a drive to improve the energy efficiency of transportation (Rail, Air, Bus, Automotive etc.)
 and the use of composites can reduce weight and hence decrease the energy consumption. The composite resins
@@ -354,7 +354,7 @@ Image description: Filler particles with attached polymers
 Measuring distances with multi wavelength interferometry
 ---
 
-<img align=“right” src=“/images/Airbus.jpg” width=“400px”/>
+<img align="right" src="/images/Airbus.jpg" width="400px"/>
 
 In January 2020 SAMBa organised 11th Integrative Think Tank (ITT) with projects delivered by BT and
 the University of Bath Centre for Photonics and Photonic Materials. I was working on photonics project
@@ -373,7 +373,7 @@ in a wide variety of industry sectors such as aerospace, marine engineering and 
 Impact of slope and weather on English highways
 ---
 
-<img align=“right” src=“/images/Highways.jpg” width=“400px”/>
+<img align="right" src="/images/Highways.jpg" width="400px"/>
 
 During the Geospatial Study Group organised in Bath on January 2020 I was working in a team on a problem presented
 by Highways England. They measure average speed across approximately 17,000 sections of road in order to understand
@@ -394,7 +394,7 @@ During the study group project we tried to:
 Crisp alignment and lift-off process modelling
 ---
 
-<img align=“right” src=“/images/crisps.jpg" alt="" width="255" height="160"/>
+<img align="right" src="/images/crisps.jpg" alt="" width="255" height="160"/>
 
  I worked on the optimisation of selected stages of the PepsiCo crisps production line. During 10th ITT in June 2019
 team I worked in was modelling different methods of crisp alignment on two supports to find the method, which is most stable .

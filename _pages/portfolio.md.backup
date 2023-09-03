@@ -359,7 +359,8 @@ Measuring distances with multi wavelength interferometry
 In January 2020 SAMBa organised 11th Integrative Think Tank (ITT) with projects delivered by BT and
 the University of Bath Centre for Photonics and Photonic Materials. I was working on photonics project
 on finding an optimal method for estimating absolute distances using multi wavelength interferometry.
-We tried to quantify measurement uncertainties and based on a proposed model we found an optimal method
+
+Firstly we quantified measurement uncertainties and based on a proposed model we found an optimal method
 of wavelength selection. Further on we proposed how the measurement precision can be increased
 by aggregating multiple measurements and verified its precision numerically. We hope that the project
 will help developing cheaper methods for high-precise measurement. These are strongly needed
@@ -378,7 +379,9 @@ During the Geospatial Study Group organised in Bath on January 2020 I was workin
 by Highways England. They measure average speed across approximately 17,000 sections of road in order to understand
 how the strategic road network is performing continuously throughout the day. These sections of road
 have been mapped against a linear network model built of line features but does not account for topography
-of the terrain and weather conditions. During the study group project we tried to:
+of the terrain and weather conditions.
+
+During the study group project we tried to:
 1) understand if there is any relationships between the average speed and identifiable topographic features,
 2) predict how the weather interacts with the network and particularly where aquaplaning and/or flooding could occur.
 
