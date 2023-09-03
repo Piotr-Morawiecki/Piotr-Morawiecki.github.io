@@ -8,7 +8,7 @@ author_profile: true
 Modelling tailing dam failures
 ---
 
-<img align="right" src="/images/dam_collapse.png" width="255px"/>
+<img align="right" src="/images/dam_collapse.png" width="400px"/>
 
 During the ITT Chile (12-16.12.2022) organised by SAMBA CDT and CMM (Universidad de Chile), I worked on a problem for Chilean mining company JRI. The problem concerned failure of tailing dams, which are used to store byproducts of mining operations. The goal was to develop mathematical model failures caused by the erosion of the dam from liquid tailings seeping through the base of the dam.
 
