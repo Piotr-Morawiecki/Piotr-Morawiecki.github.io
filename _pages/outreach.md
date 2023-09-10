@@ -12,8 +12,10 @@ One of my passions is promoting science among school students. I started by orga
 
 The most interesting project was supervising ArctowSky team, which took part in **the CanSAT competition 2018/19** organised by the European Space Agency (<a href="https://www.esa.int/Education/CanSat">CanSat website</a>). We constructed a minisatellite, which was taking photos of the Earth's surface, which were then used by an on-board neural network to create topographic maps of the terrain. Thanks to the hard work of six amazing student we successfully won the Polish CanSat competition and received an "Outstanding science mission" award on the European finals in Italy.
 
-![](images/CanSat.jpg)
-ArctowSky team at the national CanSat competition finals
+<figure class="image">
+  <img src="/images/CanSat.jpg">
+  <figcaption>ArctowSky team at the national CanSat competition finals</figcaption>
+</figure>
 
 "Matematyka dla ciekawych świata" programme
 ---
@@ -22,8 +24,12 @@ Since 2017 I am organising a annual semester-long programme for ambitious second
 
 It is focused on explaining advanced concepts, including infinity, cryptography and non-Euclidean geometries among others, via a series of popular maths lectures and tutorials. During the 2022 and 2023 edition of this programme I was running series of lectures on dynamic systems and their applications in epidemic models. You can find more about us at <a href="https://ciekawi.icm.edu.pl/">our website</a>.
 
-![](images/MdCS.png)
-You can watch lectures from 2022 edition on our <a href="https://youtu.be/4q8OvomjOf8">YouTube channel</a>.
+<figure class="image">
+  <img src="/images/MdCS.png">
+  <figcaption>You can watch lectures from 2022 edition on our <a href="https://youtu.be/4q8OvomjOf8">YouTube channel</a>.</figcaption>
+</figure>
+
+
 
 Previous activities
 ---
