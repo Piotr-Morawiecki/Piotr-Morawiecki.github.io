@@ -45,7 +45,7 @@ Additional materials
 <video width="870" controls>
   <source src="/files/BAMC2022_video.mp4" type="video/mp4">
   Your browser does not support HTML video.
-</video><br><br>
+</video>
 
 * Poster prepared for BAMC 2021
 
