@@ -29,9 +29,7 @@ It is focused on explaining advanced concepts, including infinity, cryptography 
   <figcaption>You can watch lectures from 2022 edition on our <a href="https://youtu.be/4q8OvomjOf8">YouTube channel</a>.</figcaption>
 </figure>
 
-
-
-Previous activities
+Other activities
 ---
 
 During my academic years I was actively engaged in organising academic outreach programmes and public lectures. 
